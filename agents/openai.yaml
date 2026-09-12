@@ -1,4 +1,4 @@
 interface:
   display_name: "生财 MCP 实验室"
-  short_description: "将生财内容、深海圈与航海学习转为研究、行动与可视化简报"
-  default_prompt: "Use $shengcai-mcp-lab to create my direction card and show the available research modules."
+  short_description: "调研生财赛道、深读原帖，并生成可回查的资料库和手绘简报"
+  default_prompt: "Use $shengcai-mcp-lab to research a Shengcai topic, preserve source evidence, and create a reusable Markdown knowledge base."
